@@ -1,0 +1,12 @@
+(module 10pcs-1bit-1-bit-Common-Anode-Positive-Digital-Tube-0-36-0-36in-Red-LED-Digit (layer F.Cu) (tedit 5D27C6EC)
+  (fp_text reference REF** (at 0.25 8.25) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value 10pcs-1bit-1-bit-Common-Anode-Positive-Digital-Tube-0-36-0-36in-Red-LED-Digit (at 0 -8) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -3.25 7) (end 3.25 7) (layer F.SilkS) (width 0.15))
+  (fp_line (start 3.25 7) (end 3.25 -7) (layer F.SilkS) (width 0.15))
+  (fp_line (start 3.25 -7) (end -3.25 -7) (layer F.SilkS) (width 0.15))
+  (fp_line (start -3.25 -7) (end -3.25 7) (layer F.SilkS) (width 0.15))
+)
