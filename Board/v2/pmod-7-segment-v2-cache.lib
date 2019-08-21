@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# pmod-7-segment-v2-rescue_GND
+# pmod-7-segment-v2-rescue_GND-pmod-7-segment-v2-rescue
 #
-DEF ~pmod-7-segment-v2-rescue_GND #PWR 0 0 Y Y 1 F P
+DEF ~pmod-7-segment-v2-rescue_GND-pmod-7-segment-v2-rescue #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 0 30 H I C CNN
-F1 "pmod-7-segment-v2-rescue_GND" 0 -70 30 H I C CNN
+F1 "pmod-7-segment-v2-rescue_GND-pmod-7-segment-v2-rescue" 0 -70 30 H I C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -14,11 +14,11 @@ X GND 1 0 0 0 U 30 30 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# pmod-7-segment-v2-rescue_PMOD
+# pmod-7-segment-v2-rescue_PMOD-pmod-7-segment-v2-rescue
 #
-DEF pmod-7-segment-v2-rescue_PMOD J 0 40 Y Y 1 F N
+DEF pmod-7-segment-v2-rescue_PMOD-pmod-7-segment-v2-rescue J 0 40 Y Y 1 F N
 F0 "J" -250 -400 60 H V L CNN
-F1 "pmod-7-segment-v2-rescue_PMOD" 0 400 60 H V C CNN
+F1 "pmod-7-segment-v2-rescue_PMOD-pmod-7-segment-v2-rescue" 0 400 60 H V C CNN
 F2 "" -100 -350 60 H V C CNN
 F3 "" -100 -350 60 H V C CNN
 DRAW
@@ -38,11 +38,11 @@ X IO7 9 350 50 100 L 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# pmod-7-segment-v2-rescue_R
+# pmod-7-segment-v2-rescue_R-pmod-7-segment-v2-rescue
 #
-DEF pmod-7-segment-v2-rescue_R R 0 0 N Y 1 F N
+DEF pmod-7-segment-v2-rescue_R-pmod-7-segment-v2-rescue R 0 0 N Y 1 F N
 F0 "R" 80 0 40 V V C CNN
-F1 "pmod-7-segment-v2-rescue_R" 7 1 40 V V C CNN
+F1 "pmod-7-segment-v2-rescue_R-pmod-7-segment-v2-rescue" 7 1 40 V V C CNN
 F2 "" -70 0 30 V V C CNN
 F3 "" 0 0 30 H V C CNN
 $FPLIST
@@ -59,11 +59,11 @@ X ~ 2 0 -250 100 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
-# pmod-7-segment-v2-rescue_SA39-11
+# pmod-7-segment-v2-rescue_SA39-11-pmod-7-segment-v2-rescue
 #
-DEF pmod-7-segment-v2-rescue_SA39-11 LED 0 40 Y Y 1 F N
+DEF pmod-7-segment-v2-rescue_SA39-11-pmod-7-segment-v2-rescue LED 0 40 Y Y 1 F N
 F0 "LED" -300 500 60 H V L CNN
-F1 "pmod-7-segment-v2-rescue_SA39-11" -300 -500 60 H V L CNN
+F1 "pmod-7-segment-v2-rescue_SA39-11-pmod-7-segment-v2-rescue" -300 -500 60 H V L CNN
 F2 "" 300 -350 60 H V C CNN
 F3 "" 300 -350 60 H V C CNN
 DRAW
