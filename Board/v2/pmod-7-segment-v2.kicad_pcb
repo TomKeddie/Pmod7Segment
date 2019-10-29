@@ -11,10 +11,10 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal hide)
-    (31 B.Cu signal hide)
+    (0 F.Cu signal)
+    (31 B.Cu signal)
     (32 B.Adhes user)
-    (33 F.Adhes user hide)
+    (33 F.Adhes user)
     (34 B.Paste user)
     (35 F.Paste user)
     (36 B.SilkS user)
@@ -58,7 +58,7 @@
     (mod_text_width 0.15)
     (pad_size 3.2 3.2)
     (pad_drill 3.2)
-    (pad_to_mask_clearance 0)
+    (pad_to_mask_clearance 0.0508)
     (aux_axis_origin 0 0)
     (grid_origin 101.6 76.2)
     (visible_elements FFFFFF7F)
