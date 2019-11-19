@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name pmod-7-segment-v2-rescue)(type Legacy)(uri ${KIPRJMOD}/pmod-7-segment-v2-rescue.lib)(options "")(descr ""))
+  (lib (name tom-semiconductors)(type Legacy)(uri ${KIPRJMOD}/tom-kicad/symbols/tom-semiconductors.lib)(options "")(descr ""))
 )
